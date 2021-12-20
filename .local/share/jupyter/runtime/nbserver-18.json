@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/sakthive-test_binder-vqn48erp/",
+  "base_url": "/user/sakthive-test_binder-z1ipgzav/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
@@ -7,6 +7,6 @@
   "port": 8888,
   "secure": false,
   "sock": "",
-  "token": "HR42YrKNRyGbV2TlPCiRug",
-  "url": "http://0.0.0.0:8888/user/sakthive-test_binder-vqn48erp/"
+  "token": "pQKcfN-gRQi37YPfUooCHw",
+  "url": "http://0.0.0.0:8888/user/sakthive-test_binder-z1ipgzav/"
 }
