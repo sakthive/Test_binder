@@ -36,3 +36,27 @@ TermSocket.open: Opened 1
 TermSocket.open: 2
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 2
+[I 15:04:05.606 NotebookApp] Creating new file in 
+[I 15:06:06.493 NotebookApp] Saving file at /requirements.txt
+[I 15:06:20.594 NotebookApp] Saving file at /requirements.txt
+[I 15:06:27.177 NotebookApp] Creating new notebook in 
+[I 15:06:27.199 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 15:06:27.976 NotebookApp] Kernel started: 46e497b3-cd76-4db7-a68e-1d8591671fb6, name: python3
+[I 15:06:27.977 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 15:06:27.977 NotebookApp] Culling kernels even with connected clients
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 15:06:30.784 NotebookApp] 301 GET /user/sakthive-test_binder-vqn48erp/static/favicons/favicon-busy-1.ico (69.191.176.31) 1.260000ms
+[I 15:06:52.977 NotebookApp] Saving file at /Untitled.ipynb
+Websocket closed
+[I 15:06:56.046 NotebookApp] Starting buffering for 46e497b3-cd76-4db7-a68e-1d8591671fb6:d39cbd6b-5da0-4179-9ec5-022e56c75043
+Websocket closed
+[I 2021-12-20 15:07:03.022 LabApp] Build is up to date
+[W 15:07:03.604 NotebookApp] Notebook Untitled.ipynb is not trusted
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
+[I 15:07:23.958 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 3
